@@ -1,10 +1,47 @@
 ---
 layout: page
-title: Class Schedule
+title: Schedule
 permalink: /schedule/
 ---
 
-# CS 447 Schedule
+As always, keep up with the [University Academic Calendar](https://www.provost.pitt.edu/students/academic-calendar) for general important university dates.
 
-| August 27 | Introduction | slides |
-| August 29 | Basic        | slides |
+Office hours for the instructor and TAs is listed at the [bottom of this page](#office-hours).
+
+| August    28 | Introduction / [Syllabus](/syllabus) / The Basis of Information | slides |
+| August    30 | Introduction to Assembly: MIPS     | slides, file.asm, file2.asm, file3.asm |
+| September  4 | MIPS: Instructions, Registers, etc | |
+| September  6 | Memory and Addressing              | |
+| September  7 | ***Add/Drop Ends***                | |
+| September 11 | Bitwise Logic, Shifts, Masking     | |
+| September 13 | Control Flow (branches, jumps, etc)| |
+| September 18 | Functions/Procedures               | |
+| September 20 | Functions/Stack/Arithmetic         | |
+| September 25 | Arithmetic                         | |
+| September 27 | Arithmetic                         | |
+| October    2 | Arithmetic                         | |
+| October    4 | Exam 1?                            | |
+| October    9 | Exam 1?                              | |
+| October   11 | Introduction to Architecture: EE Edition | |
+| October   16 | **NO CLASS** (Monday make-ups)     | |
+| October   18 | Logic Design: Expression and Optimization | |
+| October   23 | Logic Design: Simplification and ALU Design | |
+| October   25 | Logic Design: Sequential Logic     | |
+| October   29 | ***Spring Enrollment Begins***       | |
+| October   30 | Processor Design: Single Cycle Datapath | |
+| November   1 | Processor Design: Composing Datapath | |
+| November   6 | Processor Design: Single Cycle Control | |
+| November   8 | Processor Design: Multicycle       | |
+| November  13 | Processor Design: Pipelining       | |
+| November  15 | Processor Design: Evaluation and Retrospective | |
+| November  20 | Exam 2?                            | |
+| November  22 | **NO CLASS** (Thanksgiving Recess) | |
+| November  27 |                                    | |
+| November  29 |                                    | |
+| December   4 |                                    | |
+| December   6 |                                    | |
+| December  10 | **Final Exam** (12:00 PM - 1:50 PM) *Date Tentative*   | |
+
+## Office Hours
+
+TBD

@@ -4,25 +4,29 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-# CS 447 Syllabus
-
 ## Description
 
 Go [here](/about) for the course description.
 
+## Schedule
+
+Go [here](/schedule) for the day to day schedule and lecture materials.
+
 ## Grades
 
-* **20%** Labs (Around one a week, only ten count (I think it will be 12 labs))
+* **20%** Labs (Around one a week, lowest two dropped. (I think it will be 12 labs))
 * **30%** Projects (Two projects: 15% each; One MIPS, One Logisim)
 * **15%** Midterm One
 * **15%** Midterm Two
 * **20%** Final (semi-cumulative)
 
+You may ask to have an exam, project or lab regraded. However, the entire exam, project or lab will be regraded. This may or may not result in a grade change, either up or down. To have an assignment regraded, you must hand in the item with a typewritten paragraph explaining what was not graded correctly. You must ask for the regrading by the next class period after the project, lab, or exam was returned. There will be no exceptions to this requirement.
+
 ## Textbook
 
 Computer Organization and Design - The Hardware/Software Interface, John Hennessy and David Patterson, FIFTH EDITION, Morgan Kaufmann.
 
-I don't really care about the book as far as teaching the concepts, and I'll say that the book is not *actually* required and is more of a supplemental material for furthering your understanding and knowledge.
+I don't really care about the book as far as it is needed for teaching the concepts, and I'll say that the book is not *actually* required and is more of a supplemental material for furthering your understanding and knowledge.
 
 As always, you can find this textbook in most libraries and definitely will be reserved in Hillman.
 
@@ -35,7 +39,12 @@ As always, you can find this textbook in most libraries and definitely will be r
 There will be two projects for this course.
 One will be a programming project requiring the writing of a significant assembly program.
 The target will be between 100 and 300 lines of code, maybe a little more or a little less depending on your design or the requirements.
-The programming, including labs, will be using the MIPS simulator.
+The programming, including labs, will be using the MARS MIPS simulator.
+
+The second project is oriented around logic design.
+You will create a (simple) processor for a particular instruction set (to be discussed).
+This design will be implemented using a simulator tool called Logisim.
+This tool, thankfully, helpfully gives us a lot of nice building blocks so we aren't reinventing fire, etc, and everything else.
 
 The projects will be graded on a rubric by your TA or class grader.
 The rubric will reflect the posted requirements and goal of the project.
@@ -60,7 +69,14 @@ Generally speaking, as part of the overall university policy and culture, collab
 
 This includes the sharing of materials, past materials, materials from other sections of this class. The only exception is if **you** wrote the material (because you are repeating the class).
 
+Any use of material that is not your own constitutes as collaboration, which informally is considered cheating, and is then a violation of this policy.
+Cheating will earn you a 0 on the assignment/exam on the first offense. You will **fail the course** on the second offense.
+
+If you have any doubts about what is "cheating", ask the instructor for clarification before you do it. The instructor will make the final determination of what is considered cheating.
+
 You are generally allowed to talk about projects and share insight (and you should!) You cannot write any part of another student's assignment or review another student's logic design.
+
+## Conduct Policy
 
 ## Late/Early Policy
 
@@ -68,7 +84,7 @@ You are generally allowed to talk about projects and share insight (and you shou
 
 * **Voluntary late projects**: A project may be turned in late for any reason, but it will be penalized by 20% for each day it is late.
 
-* **Voluntary late labs**: Because there are more labs than will be graded, and therefore the occassional missed lab can be missed without penalty, voluntary late labs will not be accepted.
+* **Voluntary late labs**: Because the occassional missed lab can be missed without penalty since the lowest two lab scores are dropped, voluntary late labs will not be accepted.
 
 * There will be no early exams. Make up exams must be pre-approved. No make up exams will be given that do not meet University rules and have proper (written) documentation.
 
@@ -78,7 +94,7 @@ You are generally allowed to talk about projects and share insight (and you shou
 
 ## Notes for Students
 
-If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact the [Office of Disability Resources and Services](https://www.studentaffairs.pitt.edu/drs/), 140 William Pitt Union (412-648-7890), as soon as possible in the term. They will verify your disability and determine reasonable accommodations for this course.
+If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact the [Office of Disability Resources and Services](https://www.studentaffairs.pitt.edu/drs/) (DRS), 140 William Pitt Union (412-648-7890) (TTY 412-383-7355), as soon as possible in the term. They will verify your disability and determine reasonable accommodations for this course.
 
 ## Acknowledgements
 
