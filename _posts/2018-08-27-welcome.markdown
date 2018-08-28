@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Welcome to CS447!"
+date:   2018-08-27 21:04:31 +0200
+categories: jekyll update
+---
+
+Hello, all!
+
+This is the course website for CS447 for fall of 2018. Please, keep track of this page (there's an RSS link!) to make sure you see all announcements as those will be posted here.
+
+Enjoy the course!
+
+And, as always, have fun!
