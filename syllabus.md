@@ -6,11 +6,11 @@ permalink: /syllabus/
 
 ## Description
 
-Go [here](/about) for the course description.
+Go [here](about) for the course description.
 
 ## Schedule
 
-Go [here](/schedule) for the day to day schedule and lecture materials.
+Go [here](schedule) for the day to day schedule and lecture materials.
 
 ## Grades
 
