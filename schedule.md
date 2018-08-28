@@ -8,7 +8,7 @@ As always, keep up with the [University Academic Calendar](https://www.provost.p
 
 Office hours for the instructor and TAs is listed at the [bottom of this page](#office-hours).
 
-| August    28 | Introduction / [Syllabus](/syllabus) / The Basis of Information | [Introduction](/slides/01_CS0447_Introduction.pdf) | [What is Assembly](/slides/02_CS0447_Architecture.pdf) |
+| August    28 | Introduction / [Syllabus](/syllabus) / The Basis of Information | [Introduction](/slides/01_CS0447_Introduction.pdf) \| [What is Assembly](/slides/02_CS0447_Architecture.pdf) |
 | August    30 | Introduction to Assembly: MIPS     | slides, file.asm, file2.asm, file3.asm |
 | September  4 | MIPS: Instructions, Registers, etc | |
 | September  6 | Memory and Addressing              | |
