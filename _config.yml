@@ -19,8 +19,8 @@ description: |
   CS 447 (26147);
   T-Th 9:30AM;
   123 Victoria
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/cs447" # the subpath of your site, e.g. /blog
+url: "https://wilkie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: wilkie
 
 # Build settings
