@@ -20,8 +20,8 @@ Office hours for the instructor and TAs is listed at the [bottom of this page](#
 | September 25 | Arithmetic                         | |
 | September 27 | Arithmetic                         | |
 | October    2 | Arithmetic                         | |
-| October    4 | Exam 1?                            | |
-| October    9 | Exam 1?                              | |
+| October    4 |                                    | |
+| October    9 | Tentative Exam 1                     | |
 | October   11 | Introduction to Architecture: EE Edition | |
 | October   16 | **NO CLASS** (Monday make-ups)     | |
 | October   18 | Logic Design: Expression and Optimization | |
@@ -34,7 +34,7 @@ Office hours for the instructor and TAs is listed at the [bottom of this page](#
 | November   8 | Processor Design: Multicycle       | |
 | November  13 | Processor Design: Pipelining       | |
 | November  15 | Processor Design: Evaluation and Retrospective | |
-| November  20 | Exam 2?                            | |
+| November  20 | Tentative Exam 2                   | |
 | November  22 | **NO CLASS** (Thanksgiving Recess) | |
 | November  27 |                                    | |
 | November  29 |                                    | |

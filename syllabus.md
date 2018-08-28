@@ -22,6 +22,23 @@ Go [here](/schedule) for the day to day schedule and lecture materials.
 
 You may ask to have an exam, project or lab regraded. However, the entire exam, project or lab will be regraded. This may or may not result in a grade change, either up or down. To have an assignment regraded, you must hand in the item with a typewritten paragraph explaining what was not graded correctly. You must ask for the regrading by the next class period after the project, lab, or exam was returned. There will be no exceptions to this requirement.
 
+### Scale
+
+|97%+|A+
+|93-96%|A
+|90-92%|A-
+|87-89%|B+
+|83-86%|B
+|80-82%|B-
+|77-79%|C+
+|73-76%|C
+|70-72%|C-
+|67-69%|D+
+|63-66%|D
+|60-62%|D-
+|<60%|F
+
+
 ## Textbook
 
 Computer Organization and Design - The Hardware/Software Interface, John Hennessy and David Patterson, FIFTH EDITION, Morgan Kaufmann.
@@ -32,7 +49,22 @@ As always, you can find this textbook in most libraries and definitely will be r
 
 ## Exams
 
+There will be two midterm exams and one cumulative final.
+You are responsible for looking at the schedule and hearing announcements about the scheduling of all exams.
+The tentative dates of the exams are located on the schedule page and are subject to change.
+Exams are closed book and an individual effort.
+
+You must take all exams in the lecture session for which you are registered!
+
+Specific instructions for each exam will be posted at a closer date.
+
 ## Labs
+
+Labs will be conducted during recitation. The lab assignments will be distributed in recitation and turned in electronically by the due date stated on the lab. A weekly short quiz will also be given in lab. More information about the labs and quizzes will be given in the first recitation. A solution will be posted on the TA’s web site for each lab and quiz within one to two weeks of the due date.
+
+The lowest two lab grades will be dropped (i.e., you can turn in two labs without penalty).
+
+You are allowed to collaborate with a partner in the lab unless noted otherwise. However, each person must turn in their own copy of the lab, with the name of their partner. Both names (your name and your partner’s name) must appear on the assignment.
 
 ## Projects
 
@@ -78,6 +110,11 @@ You are generally allowed to talk about projects and share insight (and you shou
 
 ## Conduct Policy
 
+No harassment of any kind is allowed.
+No jokes or comments about sex, gender, race, ethnicity, or religion will be tolerated in any classroom setting.
+This includes lectures, recitations, and any online space established for the course.
+Please refer to the [Title IX Office](https://www.titleix.pitt.edu/) for more policy information any contact information in case of any discrimination or harassment.
+
 ## Late/Early Policy
 
 * **Illness and other compelling reasons**: A late assignment (exam or project) with a valid excuse according to University rules, such as an extended illness or hospitalization, will be accepted up to one week late without a penalty. Arrangements must be made in advance when possible; written documentation of the compelling reason must be provided.
@@ -94,7 +131,13 @@ You are generally allowed to talk about projects and share insight (and you shou
 
 ## Notes for Students
 
+### Disability Resources and Services
+
 If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact the [Office of Disability Resources and Services](https://www.studentaffairs.pitt.edu/drs/) (DRS), 140 William Pitt Union (412-648-7890) (TTY 412-383-7355), as soon as possible in the term. They will verify your disability and determine reasonable accommodations for this course.
+
+### File Backups
+
+It is your responsibility to backup your work regularly. Please consider using reliable and multiple ways to protect your files! I.e.: Please make backups, and backups of your backups, and… (you get the point!) The University offers space that you can use for backups through Box, if you like. Both Google Drive and Dropbox have free tiers that also work well. No extensions for assignments will be approved due to failed laptops, hard drive crashes, lost USB drives, or other calamities that lead to lost or corrupted data. Per the policy on voluntary late assignments, you may turn in a project up to five days late (with a penalty), which should give sufficient time to recover a lost/corrupted project.
 
 ## Acknowledgements
 
