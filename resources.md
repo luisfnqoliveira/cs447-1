@@ -18,7 +18,8 @@ It is expected that assignments and projects you produce will run with this spec
 ### Helpful Notes
 
 * Requires Java 8+ to be installed along with JavaFX.
-* You likely want to make sure (under Settings) that "Initialize program counter to global main" is **unchecked** at first.
+* You likely want to make sure (under Settings) that "Initialize program counter to global main" is **checked** at first.
+* It may be useful to **check** under Settings "Clear Run I/O upon assembling" and "Show labels window", but it is up to you.
 * The first thing you probably want to do is resize the window so that the left-hand panel is bigger, so click and drag the right edge of that left panel to make sure we see a large area to type within.
 * You probably want the run speed (slider at the top of the window) to be all the way to the right (FAST), but sometimes it is useful to slow things down.
 
