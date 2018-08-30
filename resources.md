@@ -27,3 +27,9 @@ It is expected that assignments and projects you produce will run with this spec
 
 If you use openjdk, you will also need the openjfx package.
 It is up to you to determine how to install those packages using your Linux distribution's package manager.
+
+### Acknowledgements
+
+This version of MARS is maintained by our own Jarrett Billingsley.
+You can see a changelog (and any updates) [here](https://jarrettbillingsley.github.io/teaching/classes/cs0447/software.html),
+but make sure your work still functions using the version posted here for all assignments and labs!

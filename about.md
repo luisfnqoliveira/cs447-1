@@ -11,9 +11,19 @@ permalink: /about/
 ## Recitations
 
 * Friday, 9:00 AM, 5502 Sennott Square
-* Friday, 10:00 AM, 5502 Sennott Square
+* Friday, 11:00 AM, 5502 Sennott Square
 
 You **must** attend *only* your assigned recitation.
+
+## Teaching Assistants
+
+### Ekaterina Dimitrova
+
+Go [here]({{ site.baseurl }}/schedule#office-hours) for their office hours.
+
+**Website**: <http://people.cs.pitt.edu/~ekaterina/>
+
+**Office**: 6150 Sennott Square
 
 ## Purpose
 

@@ -21,7 +21,7 @@ description: |
   123 Victoria
 baseurl: "/cs447" # the subpath of your site, e.g. /blog
 url: "https://wilkie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-destination: "docs"
+destination: "cs447"
 github_username: wilkie
 
 # Build settings

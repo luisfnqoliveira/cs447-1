@@ -44,4 +44,18 @@ Office hours for the instructor and TAs is listed at the [bottom of this page](#
 
 ## Office Hours
 
-TBD
+### Ekaterina Dimitrova
+
+**Monday**: 8:00 AM - 11:00 AM
+
+**Wednesday**: 8:00 AM - 11:00 AM
+
+**Location**: 6150 Sennott Square
+
+### Instructor
+
+**Tuesday**: 1:00 PM - 3:00 PM
+
+**Thursday**: 1:00 PM - 3:00 PM
+
+**Other**: By appointment. <mailto:dwilk@cs.pitt.edu>
