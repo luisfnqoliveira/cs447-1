@@ -60,7 +60,7 @@ Specific instructions for each exam will be posted at a closer date.
 
 ## Labs
 
-Labs will be conducted during recitation. The lab assignments will be distributed in recitation and turned in electronically by the due date stated on the lab. A weekly short quiz will also be given in lab. More information about the labs and quizzes will be given in the first recitation. A solution will be posted on the TA’s web site for each lab and quiz within one to two weeks of the due date.
+Labs will be conducted during recitation. The lab assignments will be distributed [here]({{ site.baseurl }}/labs) on or before recitation and turned in electronically by the due date stated on the lab. A weekly short quiz will also be given in lab. More information about the labs and quizzes will be given in the first recitation. A solution will be posted on the TA’s web site for each lab and quiz within one to two weeks of the due date.
 
 The lowest two lab grades will be dropped (i.e., you can turn in two labs without penalty).
 
