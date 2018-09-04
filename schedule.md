@@ -10,7 +10,7 @@ Office hours for the instructor and TAs is listed at the [bottom of this page](#
 
 | August    28 | Introduction / [Syllabus](/syllabus) / The Basis of Information | [Introduction](/slides/01_CS0447_Introduction.pdf) \| [What is Assembly](/slides/02_CS0447_Architecture.pdf) |
 | August    30 | Binary, Hex, Arbitrariness         | [Data Representation](slides/03_CS0447_Data-Representation.pdf) |
-| September  4 | MIPS: Instructions, Registers, etc | [Instructions and Registers](slides/04_CS0447_MIPS_Introduction.pdf) |
+| September  4 | MIPS: Instructions, Registers, etc | [Instructions and Registers](slides/04_CS0447_MIPS_Introduction.pdf) | [mips1.asm](examples/mips1.asm) | [mips2.asm](examples/mips2.asm) |
 | September  6 | Memory and Addressing              | |
 | September  7 | ***Add/Drop Ends***                | |
 | September 11 | Bitwise Logic, Shifts, Masking     | |
