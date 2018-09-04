@@ -8,6 +8,8 @@
 # the code below carries out the above
 
 .text
+.globl main
+main:
 	li		t0, 10		# $t0 is a, $t0=10
 	addi	t0, t0,8	# $t0=10+8
 

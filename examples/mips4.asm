@@ -27,6 +27,8 @@ array_v:	.word	0,10,20,30,40,50,60,70,80,90
 
 # the "text" directive indicates that code comes next
 .text
+.globl main
+main:
 	# set up arguments -- swap elements 4 and 5 in array_v
 	la	a0, array_v
 	li	a1, 4		

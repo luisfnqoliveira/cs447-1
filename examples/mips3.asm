@@ -11,6 +11,8 @@
 #
 
 .text
+.globl main
+main:
 	li		v0, 4		# print prompt
 	la		a0, x_msg
 	syscall
