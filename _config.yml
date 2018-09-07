@@ -23,6 +23,7 @@ baseurl: "/cs447" # the subpath of your site, e.g. /blog
 url: "https://wilkie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 destination: "cs447"
 github_username: wilkie
+highlighter: rouge
 
 # Build settings
 markdown: kramdown

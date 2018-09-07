@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-table td:first-child {
+table.schedule td:first-child {
   white-space: nowrap;
 }
 

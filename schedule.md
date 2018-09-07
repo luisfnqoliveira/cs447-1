@@ -8,6 +8,7 @@ As always, keep up with the [University Academic Calendar](https://www.provost.p
 
 Office hours for the instructor and TAs is listed at the [bottom of this page](#office-hours).
 
+{:.schedule}
 | August    28 | Introduction / [Syllabus](/syllabus) / The Basis of Information | [Introduction]({{site.baseurl}}/slides/01_CS0447_Introduction.pdf) \| [What is Assembly]({{site.baseurl}}/slides/02_CS0447_Architecture.pdf) |
 | August    30 | Binary, Hex, Arbitrariness         | [Data Representation]({{site.baseurl}}/slides/03_CS0447_Data-Representation.pdf) |
 | September  4 | MIPS: Instructions, Registers, etc | [Instructions and Registers]({{site.baseurl}}/slides/04_CS0447_MIPS_Introduction.pdf) \| [mips1.asm]({{site.baseurl}}/examples/mips1.asm) \| [mips2.asm]({{site.baseurl}}/examples/mips2.asm) \| [mips3.asm]({{site.baseurl}}/examples/mips3.asm) \| [mips4.asm]({{site.baseurl}}/examples/mips4.asm) |
