@@ -10,7 +10,7 @@ Each one will be assigned shortly before the recitations on Friday and will be d
 Any deviations to that will be announced with the corresponding lab.
 
 {% for lab in site.labs %}
-# [{{ lab.title }}]({{ site.baseurl}}{{ lab.url }})
+# [{{ lab.title }}: {{ lab.subtitle}}]({{ site.baseurl}}{{ lab.url }})
 
 **Released**: {{ lab.released }}
 
