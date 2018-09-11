@@ -10,6 +10,12 @@ Each one will be assigned shortly before the recitations on Friday and will be d
 Any deviations to that will be announced with the corresponding lab.
 
 {% for lab in site.labs %}
+
+{% if lab.solution %}
+
+**Solution**: [{{ lab.title }} Solution]({{site.baseurl}}{{ lab.url }})
+
+{% else %}
 # [{{ lab.title }}: {{ lab.subtitle}}]({{ site.baseurl}}{{ lab.url }})
 
 **Released**: {{ lab.released }}
@@ -17,5 +23,6 @@ Any deviations to that will be announced with the corresponding lab.
 **Due**: {{ lab.due }}
 
 {{ lab.summary }}
+{% endif %}
 
 {% endfor %}

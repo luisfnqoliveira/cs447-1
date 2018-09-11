@@ -14,14 +14,14 @@ Office hours for the instructor and TAs is listed at the [bottom of this page](#
 | September  4 | MIPS: Instructions, Registers, etc | [Instructions and Registers]({{site.baseurl}}/slides/04_CS0447_MIPS_Introduction.pdf) \| [mips1.asm]({{site.baseurl}}/examples/mips1.asm) \| [mips2.asm]({{site.baseurl}}/examples/mips2.asm) \| [mips3.asm]({{site.baseurl}}/examples/mips3.asm) \| [mips4.asm]({{site.baseurl}}/examples/mips4.asm) |
 | September  6 | Memory and Addressing              | [Memory]({{site.baseurl}}/slides/05_CS0447_Memory.pdf) \| [memory_ex1.asm]({{site.baseurl}}/examples/memory_ex1.asm) \| [memory_ex2.asm]({{site.baseurl}}/examples/memory_ex2.asm) \| [memory_ex3.asm]({{site.baseurl}}/examples/memory_ex3.asm)|
 | September  7 | ***Add/Drop Ends***                | |
-| September 11 | Bitwise Logic, Shifts, Masking     | |
-| September 13 | Control Flow (branches, jumps, etc)| |
-| September 18 | Functions/Procedures               | |
-| September 20 | Functions/Stack/Arithmetic         | |
-| September 25 | Arithmetic                         | |
+| September 11 | Negative Numbers, Arrays, and Addressing | [Arrays]({{ site.baseurl }}/slides/06_CS0447_Arrays.pdf) |
+| September 13 | Control Flow (branches, jumps, etc)| [Control Flow]({{ site.baseurl }}/slides/07_CS0447_Control_Flow.pdf) |
+| September 18 | Functions/Stack                    | [Functions]({{ site.baseurl }}/slides/08_CS0447_Functions.pdf) |
+| September 20 | Functions/Stack                    | |
+| September 25 | Bitwise Logic and Shifts           | |
 | September 27 | Arithmetic                         | |
 | October    2 | Arithmetic                         | |
-| October    4 |                                    | |
+| October    4 | Arithmetic                         | |
 | October    9 | Tentative Exam 1                     | |
 | October   11 | Introduction to Architecture: EE Edition | |
 | October   16 | **NO CLASS** (Monday make-ups)     | |
