@@ -36,7 +36,7 @@ title: Lab 1
 
 ### Answer
 
-The Print Instruction system call.
+The Print Integer system call.
 
 {:.question}
 | **B.2: Update your program to output the hexadecimal number 0x4321 in base-10 in place of the "1234"**
