@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 cs447
 docs
+.htpasswd
