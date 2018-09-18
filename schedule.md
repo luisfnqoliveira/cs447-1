@@ -16,7 +16,7 @@ Office hours for the instructor and TAs is listed at the [bottom of this page](#
 | September  7 | ***Add/Drop Ends***                | |
 | September 11 | Negative Numbers, Arrays, and Addressing | [Arrays]({{ site.baseurl }}/slides/06_CS0447_Arrays.pdf) \| [array_ex1.asm]({{site.baseurl}}/examples/array_ex1.asm) \| [array_ex2.asm]({{site.baseurl}}/examples/array_ex2.asm) |
 | September 13 | Control Flow (branches, jumps, loops, etc)| [Control Flow]({{ site.baseurl }}/slides/07_CS0447_Control_Flow.pdf) \| [loop_ex1.asm]({{site.baseurl}}/examples/loop_ex1.asm) \| [loop_ex2.asm]({{site.baseurl}}/examples/loop_ex2.asm) \| [loop_ex3.asm]({{site.baseurl}}/examples/loop_ex3.asm) |
-| September 18 | Functions/Stack                    | [Functions]({{ site.baseurl }}/slides/08_CS0447_Functions.pdf) \| [function_ex1_printstars.asm]({{site.baseurl}}/examples/function_ex1_printstars.asm) \| [function_ex2_recursion.asm]({{site.baseurl}}/examples/function_ex2_recursion.asm) |
+| September 18 | Functions/Stack                    | [Functions]({{ site.baseurl }}/slides/08_CS0447_Functions.pdf) \| [array_ex3.asm]({{site.baseurl}}/examples/array_ex3.asm) \| [function_simple_gcd.asm]({{site.baseurl}}/examples/function_simple_gcd.asm) \| [function_ex1_printstars.asm]({{site.baseurl}}/examples/function_ex1_printstars.asm) \| [function_ex2_recursion.asm]({{site.baseurl}}/examples/function_ex2_recursion.asm) |
 | September 20 | Functions/Stack                    | |
 | September 25 | Bitwise Logic and Shifts           | |
 | September 27 | Arithmetic                         | |
