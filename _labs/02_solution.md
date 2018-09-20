@@ -318,7 +318,7 @@ Run this program as determine the answer to the following question:
 | **C.4**: **What is the number printed out for `x` when read as a word?**
 
 {:.answer}
-> 275255 or 0x002a002a
+> 275254 or 0x002a002a
 
 As you can see, the computer does exactly what you tell it to do.
 It does not always stop you from performing these strange actions.
