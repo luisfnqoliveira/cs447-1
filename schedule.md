@@ -19,8 +19,8 @@ Office hours for the instructor and TAs is listed at the [bottom of this page](#
 | September 18 | Functions/Stack                    | [Functions]({{ site.baseurl }}/slides/08_CS0447_Functions.pdf) \| [array_ex3.asm]({{site.baseurl}}/examples/array_ex3.asm) \| [function_simple_gcd.asm]({{site.baseurl}}/examples/function_simple_gcd.asm) \| [function_ex1_printstars.asm]({{site.baseurl}}/examples/function_ex1_printstars.asm) \| [function_ex2_recursion.asm]({{site.baseurl}}/examples/function_ex2_recursion.asm) |
 | September 20 | Functions/Stack                    | |
 | September 25 | Functions/Stack                    | [The Stack]({{ site.baseurl}}/slides/09_CS0447_The_Stack.pdf) \| [function_stack_variables.asm]({{site.baseurl}}/examples/function_stack_variables.asm) |
-| September 27 | Bitwise Operations and Shifts      | |
-| October    2 | Arithmetic                         | |
+| September 27 | Bitwise Operations and Shifts      | [Bitwise Operations]({{ site.baseurl }}/slides/10_CS0447_Bitwise_Operations.pdf) |
+| October    2 | Bitfields and Masking              | [Bitfields and Masking]({{ site.baseurl }}/slides/11_CS0447_Bitfields.pdf) |
 | October    4 | Arithmetic                         | |
 | October    9 | Tentative Exam 1                     | |
 | October   11 | Introduction to Architecture: EE Edition | |
