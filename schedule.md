@@ -59,4 +59,6 @@ Office hours for the instructor and TAs is listed at the [bottom of this page](#
 
 **Thursday**: 1:00 PM - 3:00 PM
 
+**Location**: 5413 Sennott Square
+
 **Other**: By appointment. <mailto:dwilk@cs.pitt.edu>
