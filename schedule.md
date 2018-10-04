@@ -21,20 +21,20 @@ Office hours for the instructor and TAs is listed at the [bottom of this page](#
 | September 25 | Functions/Stack                    | [The Stack]({{ site.baseurl}}/slides/09_CS0447_The_Stack.pdf) \| [function_stack_variables.asm]({{site.baseurl}}/examples/function_stack_variables.asm) |
 | September 27 | Bitwise Operations and Shifts      | [Bitwise Operations]({{ site.baseurl }}/slides/10_CS0447_Bitwise_Operations.pdf) |
 | October    2 | Bitfields and Masking              | [Bitfields and Masking]({{ site.baseurl }}/slides/11_CS0447_Bitfields.pdf) |
-| October    4 | Arithmetic                         | |
-| October    9 | Tentative Exam 1                     | |
-| October   11 | Introduction to Architecture: EE Edition | |
+| October    4 | Bitfields and Review               | [Study Guide]({{ site.baseurl }}/study_1.html) |
+| October    9 | Exam 1                     | |
+| October   11 | Arithmetic (Adders) | |
 | October   16 | **NO CLASS** (Monday make-ups)     | |
-| October   18 | Logic Design: Expression and Optimization | |
-| October   23 | Logic Design: Simplification and ALU Design | |
-| October   25 | Logic Design: Sequential Logic     | |
+| October   18 | Arithmetic | |
+| October   23 | Logic Design: Expression and Optimization | |
+| October   25 | Logic Design: Simplification and ALU Design | |
 | October   29 | ***Spring Enrollment Begins***       | |
-| October   30 | Processor Design: Single Cycle Datapath | |
-| November   1 | Processor Design: Composing Datapath | |
-| November   6 | Processor Design: Single Cycle Control | |
-| November   8 | Processor Design: Multicycle       | |
-| November  13 | Processor Design: Pipelining       | |
-| November  15 | Processor Design: Evaluation and Retrospective | |
+| October   30 | | |
+| November   1 | | |
+| November   6 | | |
+| November   8 | | |
+| November  13 | | |
+| November  15 | | |
 | November  20 | Tentative Exam 2                   | |
 | November  22 | **NO CLASS** (Thanksgiving Recess) | |
 | November  27 |                                    | |
