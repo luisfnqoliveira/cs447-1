@@ -45,3 +45,26 @@ What are possible pitfalls?
 The behavior of the jal, jr instructions and our push, pop pseudo-instructions (and what they truly do).
 
 Function calling conventions for MIPS.
+
+## Tracing
+
+The following code has addresses for each instruction to the left of them. The `bgez` instruction is "branch if greater than or equal to zero." Be sure you could read through this code and thoroughly understand what that code is 
+going to do, how many times certain instructions will execute, etc.
+
+```python
+				.data
+				array:	.word	1, -2, 1, 12, -3, 7, 8, 0, -2, 1
+
+				.text
+0040 0000			la	$t0, array
+0040 0008			li	$t1, 0
+0040 000c		loop:	lw	$t2, ($t0)
+0040 0010			addi	$t0, $t0, 4
+0040 0014			bgez	$t2, cont
+0040 0018			j	loop
+0040 001c		cont:	addi	$t1, $t1, 1
+0040 0020			bne	$t2, 0, loop
+0040 0024			li	$v0, 1
+0040 0028			move	$a0, $t1
+0040 002c			syscall
+```
