@@ -23,7 +23,7 @@ Office hours for the instructor and TAs is listed at the [bottom of this page](#
 | October    2 | Bitfields and Masking              | [Bitfields and Masking]({{ site.baseurl }}/slides/11_CS0447_Bitfields.pdf) |
 | October    4 | Bitfields and Review               | [Study Guide]({{ site.baseurl }}/study_1.html) |
 | October    9 | Exam 1                     | |
-| October   11 | Logic Basics | [Logic Basics]({{ site.baseurl }}/12_CS0447_Logic_Basics.pdf) |
+| October   11 | Logic Basics | [Logic Basics]({{ site.baseurl }}/slides/12_CS0447_Logic_Basics.pdf) |
 | October   16 | **NO CLASS** (Monday make-ups)     | |
 | October   18 | Arithmetic | |
 | October   23 | Logic Design: Expression and Optimization | |
