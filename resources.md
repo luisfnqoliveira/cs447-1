@@ -33,3 +33,22 @@ It is up to you to determine how to install those packages using your Linux dist
 This version of MARS is maintained by our own Jarrett Billingsley.
 You can see a changelog (and any updates) [here](https://jarrettbillingsley.github.io/teaching/classes/cs0447/software.html),
 but make sure your work still functions using the version posted here for all assignments and labs!
+
+## Logisim (Circuit Simulator)
+
+This program is a very nice way of representing circuits and combinational and sequential logic.
+We can represent circuits at a fairly low and high level, when necessary.
+
+We will be using this for the second half of the course.
+
+**Download**: [logisim-2.7.2-2191_a.jar](logisim-2.7.2-2191_a.jar)
+
+### Helpful Notes:
+
+* Requires Java, the same as MARS, so you should be fine if that is working for you.
+
+### Acknowledgements
+
+This version of Logisim is also maintained by our own Jarrett Billingsley, who does so much.
+You can see a changelog (and any updates) [here](https://jarrettbillingsley.github.io/teaching/classes/cs0447/software.html),
+but make sure your work still functions using the version posted here for all assignments and labs!
