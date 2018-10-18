@@ -25,7 +25,7 @@ Office hours for the instructor and TAs is listed at the [bottom of this page](#
 | October    9 | Exam 1                     | |
 | October   11 | Logic Basics | [Logic Basics]({{ site.baseurl }}/slides/12_CS0447_Logic_Basics.pdf) |
 | October   16 | **NO CLASS** (Monday make-ups)     | |
-| October   18 | Arithmetic | |
+| October   18 | Arithmetic | [Binary Arithmetic]({{ site.baseurl }}/slides/13_CS0447_Binary_Arithmetic.pdf) \| [CMOS_Logic.circ]({{ site.baseurl }}/examples/CMOS_Logic.circ) |
 | October   23 | Logic Design: Expression and Optimization | |
 | October   25 | Logic Design: Simplification and ALU Design | |
 | October   29 | ***Spring Enrollment Begins***       | |
