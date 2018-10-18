@@ -51,6 +51,10 @@ main:
 #   Initializes the game state.
 initialize:
 	push	ra
+
+	# Set lastTime to a reasonable number
+	jal	getSystemTime				#
+	sw	v0, lastTime
 	
 	# Clear the screen
 	li	a0, 1
