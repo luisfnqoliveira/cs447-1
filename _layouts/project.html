@@ -11,9 +11,19 @@ layout: default
 <strong>Released</strong>: {{ page.released }}
 </p>
 
+{% if page.extended %}
+<p>
+<strong>Due</strong>: <s>{{ page.due }}</s>
+</p>
+
+<p>
+<strong>Extended</strong>: {{ page.extended }}
+</p>
+{% else %}
 <p>
 <strong>Due</strong>: {{ page.due }}
 </p>
+{% endif %}
 
 <p>
 {{ page.summary }}

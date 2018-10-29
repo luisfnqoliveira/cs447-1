@@ -17,7 +17,13 @@ On this page, you will see our course projects.
 
 **Released**: {{ project.released }}
 
+{% if project.extended %}
+**Due**: ~~{{ project.due }}~~
+
+**Extended**: {{ project.extended }}
+{% else %}
 **Due**: {{ project.due }}
+{% endif %}
 
 {{ project.summary }}
 {% endif %}
