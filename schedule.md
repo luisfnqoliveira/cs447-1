@@ -29,7 +29,7 @@ Office hours for the instructor and TAs is listed at the [bottom of this page](#
 | October   23 | Logic Design: Plexers and Minimization | [Plexers and Minimization]({{ site.baseurl }}/slides/14_CS0447_Plexers_And_Simple_Minimization.pdf) |
 | October   25 | Logic Design: Minimization and Karnaugh Maps | [Minimization and Karnaugh Maps]({{ site.baseurl }}/slides/15_CS0447_Logic_Minimization_and_K_Maps.pdf) |
 | October   29 | ***Spring Enrollment Begins***       | |
-| October   30 | | |
+| October   30 | Arithmetic: Multiplication | [Multiplication]({{site.baseurl}}/slides/16_CS0447_Multiplication.pdf) |
 | November   1 | | |
 | November   6 | | |
 | November   8 | | |
